@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MobileCalling</string>
+    <string-array name="magac">
+        <item>Salect name</item>
+        <item>Mohamed 7630000000</item>
+        <item>Ali 9520000000</item>
+        <item>Jama 6120000000</item>
+    </string-array>
+</resources>
